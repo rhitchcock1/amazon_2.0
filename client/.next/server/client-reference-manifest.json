@@ -1906,6 +1906,11 @@
         "webpack:static/chunks/webpack.js"
       ],
       "async": false
+    },
+    "/Users/roberthitchcock/projects/amazon_2.0/client/src/styles/globals.css#": {
+      "id": "./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[2]!./src/styles/globals.css",
+      "name": "default",
+      "chunks": []
     }
   }
 }

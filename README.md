@@ -1,1 +1,3 @@
 Hello!
+
+npm run dev
