@@ -22,7 +22,8 @@ function ProductFeed({products}) {
       className='md:col-span-full m-auto'
       src="https://m.media-amazon.com/images/I/411qZ94MIiL._SX1500_.jpg"
       alt = "banner image"
-      
+      height = {"auto"}
+      width={"auto"}
       />
 
      {products.slice(4,12).map(({id, title, price, description, category, image}) => (
