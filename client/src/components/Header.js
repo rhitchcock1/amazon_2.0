@@ -5,6 +5,7 @@ import {
     ShoppingCartIcon
 } from "@heroicons/react/outline"
 import React from 'react'
+import { signIn, signOut, useSession } from "next-auth/react"
 
 function Header() {
   return (
@@ -29,7 +30,7 @@ function Header() {
 
             {/* right items  */}
           <div className="text-white flex items-center text-xs space-x-6 mx-6 whitespace-nowrap ">
-            <div className="link ">
+            <div onClick={signIn} className="link ">
                 <p>Hello Robert</p>
                 <p className="font-extrabold med:text-sm">Account & Lists</p>
             
