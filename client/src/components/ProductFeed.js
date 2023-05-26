@@ -20,7 +20,7 @@ function ProductFeed({products}) {
       ))}
       <img 
       className='md:col-span-full m-auto'
-      src="https://m.media-amazon.com/images/I/411qZ94MIiL._SX1500_.jpg"
+      src="https://links.papareact.com/ikj"
       alt = "banner image"
       height = {"auto"}
       width={"auto"}

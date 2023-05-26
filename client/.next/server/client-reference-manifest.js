@@ -1911,11 +1911,6 @@ self.__RSC_MANIFEST={
       "id": "./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[2]!./src/styles/globals.css",
       "name": "default",
       "chunks": []
-    },
-    "/Users/roberthitchcock/projects/amazon_2.0/client/node_modules/react-responsive-carousel/lib/styles/carousel.min.css#": {
-      "id": "./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[2]!./node_modules/react-responsive-carousel/lib/styles/carousel.min.css",
-      "name": "default",
-      "chunks": []
     }
   }
 }
