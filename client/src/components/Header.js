@@ -24,14 +24,15 @@ function Header() {
             <div className="mt-2 p-2 flex items-center flex-grow sm:flex-grow-0">
                 <Image
                     onClick={() => router.push('/')}
-                    // src="https://links.papareact.com/f90"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2048px-Amazon_icon.svg.png"
+                    src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
+                    // src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2048px-Amazon_icon.svg.png"
                     width={150}
                     height={40}
                     // objectFit="contain"
                     className="cursor-pointer"
                 />
             </div>
+            
 
             {/* searchbar  */}
             <div className="hidden sm:flex items-center h-10 rounded-md flex-grow cursor-pointer bg-yellow-400 hover:bg-yellow-500">
