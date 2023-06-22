@@ -1,7 +1,7 @@
 module.exports = {
   
     images: {
-        domains: ['links.papareact.com', 'fakestoreapi.com'],
+        domains: ['links.papareact.com', 'fakestoreapi.com', 'pngimg.com'],
         remotePatterns: [
             {
               protocol: 'https',

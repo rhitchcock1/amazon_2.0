@@ -25,6 +25,7 @@ function Header() {
                 <Image
                     onClick={() => router.push('/')}
                     src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
+                    
                     // src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2048px-Amazon_icon.svg.png"
                     width={150}
                     height={40}
